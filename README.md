@@ -31,13 +31,13 @@ The second method is from the Github page I put in the Acknowledgements part. I 
 ![Pic](./images/MonaLisa.jpg)
 
 ### First iteration
-![Pic](./images/first.png)
+![Pic](./images/first.jpg)
 
 ### Using only triangles
-![Pic](./images/best.png)
+![Pic](./images/best.jpg)
 
 ### Using multiple vertices in each polygon
-![Pic](./images/secondbest.png)
+![Pic](./images/secondbest.jpg)
 
 
 ## Authors
